@@ -1,0 +1,1 @@
+# Minisforum-NAG6-Hackintosh
