@@ -56,6 +56,6 @@ BCM94352Z Wi-Fi 蓝牙正常，支持隔空接力
 ![](https://github.com/Xmingbai/Minisforum-NAG6-Hackintosh/blob/main/WIFI.png)
 ![](https://github.com/Xmingbai/Minisforum-NAG6-Hackintosh/blob/main/Airdrop.png)
 ![](https://github.com/Xmingbai/Minisforum-NAG6-Hackintosh/blob/main/R23.png)
-![](https://github.com/Xmingbai/Minisforum-NAG6-Hackintosh/blob/main/geekbench6 CPU.png)
+![](https://github.com/Xmingbai/Minisforum-NAG6-Hackintosh/blob/main/geekbench6-CPU.png)
 ![](https://github.com/Xmingbai/Minisforum-NAG6-Hackintosh/blob/main/OpenCL&Metal.png)
 
