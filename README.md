@@ -1,8 +1,6 @@
 # Minisforum-NAG6-Hackintosh
+B站测评视频：https://www.bilibili.com/video/BV1wc411q7DL
 
-更新中
-
-B站测评视频：
 ![](https://github.com/Xmingbai/Minisforum-NAG6-Hackintosh/blob/main/About.png)
 ===========================================================================
 # 主机配置单
