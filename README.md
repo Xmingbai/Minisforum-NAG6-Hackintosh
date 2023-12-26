@@ -1,5 +1,5 @@
 # Minisforum-NAG6-Hackintosh
-B站测评视频：https://www.bilibili.com/video/BV1wc411q7DL
+B站测评视频：https://www.bilibili.com/video/BV1wc411q7DL （白嫖的别忘三连支持一下）
 
 ![](https://github.com/Xmingbai/Minisforum-NAG6-Hackintosh/blob/main/About.png)
 ===========================================================================
